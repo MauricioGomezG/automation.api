@@ -74,6 +74,9 @@ public class TestOnboarding {
         Assert.assertEquals(profile.getProfile().getLeadershipYears(), 10, StaticTexts.parameterDontMatchProfile(parameter));
     }
 
+    @Test()
+    public void jenkinsTest(){
+    }
 
 
 }
