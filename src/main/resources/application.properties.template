@@ -1,0 +1,5 @@
+baseUrl=https://vanhack.com
+registeredUser1=user@mail.com
+registeredUser1.password=Pass1234
+unregisteredUser.user=user@mail.com
+unregisteredUser.password=Pass1234

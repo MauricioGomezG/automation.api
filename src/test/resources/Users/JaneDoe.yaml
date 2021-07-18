@@ -1,0 +1,182 @@
+result:
+  id: 587970.0
+  firstName: "Jane"
+  lastName: "Doe"
+  email: "automata1@yopmail.com"
+  resume: null
+  image: ""
+  citizenship: 3686110
+  location: 3686110
+  countryOrigin: "Colombia"
+  countryLocation: "Colombia"
+  gender: 0
+  pronoun: "She/Her"
+  phone: null
+  isPhoneConfirmed: false
+  onboarding:
+    step: 7
+    redirectTo: ""
+  positionId: 1
+  positionName: "Backend Engineer"
+  yearsOfExperience: 1
+  openForDifferentRole: false
+  userPositions: []
+  topSkill:
+  - yearsOfExperience: 1
+    skillType: 2
+    order: 0
+    id: 5096
+    name: "java"
+  - yearsOfExperience: 2
+    skillType: 2
+    order: 1
+    id: 132
+    name: "javascript"
+  - yearsOfExperience: 3
+    skillType: 2
+    order: 2
+    id: 260
+    name: "css"
+  secondarySkill:
+  - yearsOfExperience: 4
+    skillType: 3
+    order: 0
+    id: 1590
+    name: "selenium"
+  - yearsOfExperience: 5
+    skillType: 3
+    order: 1
+    id: 58427
+    name: "Cypress"
+  - yearsOfExperience: 6
+    skillType: 3
+    order: 2
+    id: 2295
+    name: "protractor"
+  openForRemoteJobs: 1
+  targetLocation:
+    items:
+    - status: true
+      firstChoice: null
+      id: 6251999
+      name: "Canada"
+    - status: false
+      firstChoice: null
+      id: 2921044
+      name: "Germany"
+    - status: false
+      firstChoice: null
+      id: 2963597
+      name: "Ireland"
+    - status: false
+      firstChoice: null
+      id: 2750405
+      name: "Netherlands"
+    - status: false
+      firstChoice: null
+      id: 2635167
+      name: "United Kingdom"
+    - status: false
+      firstChoice: null
+      id: 2510769
+      name: "Spain"
+  firstChoice: null
+  salaryExpectationCad: 0
+  salaryExpectationEur: 0
+  salaryExpectationUsd: 0
+  salaryRangeCad: null
+  salaryRangeEur: null
+  salaryRangeUsd: null
+  salaryRangeRemote: null
+  visaStatusCanadian: 0
+  visaStatusEU: null
+  visaStatusUs: null
+  passportExpirationDate: null
+  passportValid: null
+  isTech: true
+  leadershipExperience: false
+  leadershipYears: null
+  companySize:
+  - id: 1
+    value: false
+  - id: 2
+    value: false
+  - id: 4
+    value: false
+  activelyLookingForJob: true
+  noticePeriod: 0
+  linkedin: null
+  git: null
+  webSite: null
+  degreeType: 0
+  englishVerification:
+    status: "NoTest"
+    timeToStartAgain: null
+  review:
+    lastReviewStatus: 0
+    lastReviewStatusText: "Pending"
+    lastReviewId: 0
+    reviewCreatedOn: "0001-01-01T00:00:00"
+    notes: []
+    show: false
+    canRequestReview: false
+    daysUntilNextReviewAvailable: 0
+    isUnderReview: false
+  englishLevel: "NoEnglish"
+  englishVideoIsPublic: true
+targetUrl: null
+success: true
+error: null
+unAuthorizedRequest: false
+id: 0.0
+firstName: null
+lastName: null
+email: null
+resume: null
+image: null
+citizenship: 0
+location: 0
+countryOrigin: null
+countryLocation: null
+gender: 0
+pronoun: null
+phone: 0
+onboarding: null
+positionId: 0
+positionName: null
+yearsOfExperience: 0
+openForDifferentRole: false
+userPositions: null
+topSkill: null
+secondarySkill: null
+openForRemoteJobs: 0
+targetLocation: null
+firstChoice: null
+salaryExpectationCad: 0
+salaryExpectationEur: 0
+salaryExpectationUsd: 0
+salaryRangeCad: 0
+salaryRangeEur: 0
+salaryRangeUsd: 0
+salaryRangeRemote: 0
+visaStatusCanadian: 0
+visaStatusEU: 0
+visaStatusUs: 0
+passportExpirationDate: null
+passportValid: false
+leadershipExperience: false
+leadershipYears: 0
+companySize: null
+activelyLookingForJob: false
+noticePeriod: 0
+git: null
+webSite: null
+degreeType: 0
+englishVerification: null
+review: null
+englishLevel: null
+englishVideoIsPublic: false
+tech: false
+linkedin: null
+phoneConfirmed: false
+__abp: true
