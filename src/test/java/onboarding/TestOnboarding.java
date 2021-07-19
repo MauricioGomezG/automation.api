@@ -1,4 +1,4 @@
-package api;
+package onboarding;
 
 import models.Profile;
 import org.testng.Assert;
