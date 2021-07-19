@@ -1,8 +1,11 @@
+package api;
+
 import models.Profile;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 import utils.AuthException;
+import texts.StaticTexts;
 
 
 public class TestOnboarding {

@@ -31,4 +31,3 @@ hs_err_pid*
 
 # Credentials files
 /src/main/resources/application.properties
-/allure-results/

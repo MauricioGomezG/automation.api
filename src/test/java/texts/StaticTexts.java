@@ -1,3 +1,5 @@
+package texts;
+
 public class StaticTexts {
 
     //Onboarding
